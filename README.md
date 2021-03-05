@@ -22,5 +22,5 @@ Shape of ‘event’
 
 First, I reviewed the dataset (array of objects) which includes detailed accounts of alien sightings. Each object represents a specific sighting and includes data pertaining to the time, location, shape of event, duration of event, and comments given by the observer.
 
-I compiled the data in a table dinamic table using triggering an Event (Click), forEach statements, and a series of If Statements.
+I compiled the data in a table dinamic table using triggering an Event (Click), forEach, and a series of If Statements.
 
