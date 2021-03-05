@@ -24,3 +24,4 @@ First, I reviewed the dataset (array of objects) which includes detailed account
 
 I compiled the data in a table dinamic table using triggering an Event (Click), forEach, and a series of If Statements.
 
+![Aliens](https://github.com/AliceSartori/sqlalchemy/blob/main/Temperature%20over%2012-month%20period%2C%20station%20USC00519281.png)
