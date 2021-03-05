@@ -24,4 +24,4 @@ First, I reviewed the dataset (array of objects) which includes detailed account
 
 I compiled the data in a table dinamic table using triggering an Event (Click), forEach, and a series of If Statements.
 
-![Aliens](https://github.com/AliceSartori/Javascript-challenge/blob/main/Screen%20Shot%202021-03-05%20at%204.52.27%20PM.png)
+![Aliens](https://github.com/AliceSartori/Javascript-challenge/blob/main/Screen%20Shot%202021-03-05%20at%205.25.42%20PM.png)
