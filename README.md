@@ -14,10 +14,10 @@ State of sightings
 Shape of ‘event’
 
 ## Technologies
-JavaScript
-HTLM
-CSS
-D3.js
+> JavaScript
+> HTLM
+> CSS
+> D3.js
 
 
 First, I reviewed the dataset (array of objects) which includes detailed accounts of alien sightings. Each object represents a specific sighting and includes data pertaining to the time, location, shape of event, duration of event, and comments given by the observer.
